@@ -1,0 +1,111 @@
+{
+  "voices": [
+    {
+      "name": "Maya",
+      "slug": "maya",
+      "file": "voices/maya/maya.json",
+      "recorded_in": "ru",
+      "description": "Personal stories and everyday conversations sound real. Low voice with noticeable ripples in intonation.",
+      "tags": [
+        "female voice",
+        "conversational"
+      ],
+      "previews": {
+        "en": "voices/maya/preview-en.wav",
+        "ru": "voices/maya/preview-ru.wav"
+      },
+      "page": "https://superclonica.com/en/voice/mayya-1bca0bef7a75565ab98683a8466c5d33",
+      "author": "kira_moon"
+    },
+    {
+      "name": "Valera the Gummy Bear",
+      "slug": "valera-the-gummy-bear",
+      "file": "voices/valera-the-gummy-bear/valera-the-gummy-bear.json",
+      "recorded_in": "ru",
+      "description": "High, bouncy, completely cartoonish. For absurd short clips and squabbles. Don't expect normal human speech from him, and that's the point.",
+      "tags": [
+        "valera",
+        "cartoons",
+        "memes"
+      ],
+      "previews": {
+        "en": "voices/valera-the-gummy-bear/preview-en.wav",
+        "ru": "voices/valera-the-gummy-bear/preview-ru.wav"
+      },
+      "page": "https://superclonica.com/en/voice/zheleynyy-medved-valera-aaf85078deb55949a5e883d3245dc61b",
+      "author": "ded_pixel"
+    },
+    {
+      "name": "Trevor Philips",
+      "slug": "trevor-philips",
+      "file": "voices/trevor-philips/trevor-philips.json",
+      "recorded_in": "en",
+      "description": "Trevor from GTA V, in English. Low, moderate intonation: parody dialogue and planning the next crazy scheme in the spirit of the game.",
+      "tags": [
+        "gta v",
+        "english",
+        "trevor"
+      ],
+      "previews": {
+        "en": "voices/trevor-philips/preview-en.wav",
+        "ru": "voices/trevor-philips/preview-ru.wav"
+      },
+      "page": "https://superclonica.com/en/voice/trevor-filips-e605237cf231504588126be8c82867e4",
+      "author": "yarik_gg"
+    },
+    {
+      "name": "Dark Willow",
+      "slug": "dark-willow",
+      "file": "voices/dark-willow/dark-willow.json",
+      "recorded_in": "ru",
+      "description": "Lowish voice, even intonation, and that makes her sarcasm even funnier. The fairy-tale trickster comes alive if you write her sharp lines.",
+      "tags": [
+        "dota 2",
+        "dark willow",
+        "female voice"
+      ],
+      "previews": {
+        "en": "voices/dark-willow/preview-en.wav",
+        "ru": "voices/dark-willow/preview-ru.wav"
+      },
+      "page": "https://superclonica.com/en/voice/temnaya-iva-9e629d9b7bfb504d94873fbbc380fede",
+      "author": "kira_moon"
+    },
+    {
+      "name": "Ciri",
+      "slug": "ciri",
+      "file": "voices/ciri/ciri.json",
+      "recorded_in": "ru",
+      "description": "Female, mid pitch, moderate intonation. A talk after a long road, a personal story. Fighting optional.",
+      "tags": [
+        "the witcher",
+        "ciri",
+        "female voice"
+      ],
+      "previews": {
+        "en": "voices/ciri/preview-en.wav",
+        "ru": "voices/ciri/preview-ru.wav"
+      },
+      "page": "https://superclonica.com/en/voice/tsiri-49cd4d119695528694fac0a1b9fb58a8",
+      "author": "lexx"
+    },
+    {
+      "name": "Billy Butcher",
+      "slug": "billy-butcher",
+      "file": "voices/billy-butcher/billy-butcher.json",
+      "recorded_in": "en",
+      "description": "English. Mid-low, even. Arguing over a plan, a team talk. Let the text bring the edge.",
+      "tags": [
+        "the boys",
+        "english",
+        "tv series"
+      ],
+      "previews": {
+        "en": "voices/billy-butcher/preview-en.wav",
+        "ru": "voices/billy-butcher/preview-ru.wav"
+      },
+      "page": "https://superclonica.com/en/voice/billi-butcher-887d9e85bf875aa58dcfd37b176894a6",
+      "author": "lexx"
+    }
+  ]
+}
