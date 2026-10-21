@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Free Supertonic 3 voices</title>
+<meta name="description" content="Free voices for Supertonic 3 text-to-speech with audio previews: download a voice JSON and speak offline on your CPU or GPU.">
+<link rel="canonical" href="https://superclonica.github.io/supertonic-voices/">
+<style>
+:root { --bg: #fafaf7; --text: #1b1b1b; --muted: #666; --line: #e3e1da; --accent: #5b6b00; --card: #fff; }
+@media (prefers-color-scheme: dark) { :root { --bg: #111; --text: #eee; --muted: #aaa; --line: #2b2b2b; --accent: #d4ef79; --card: #181818; } }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.55 system-ui, -apple-system, Segoe UI, sans-serif; }
+main { max-width: 980px; margin: 0 auto; padding: 32px 16px 64px; }
+h1 { font-size: 32px; margin: 0 0 8px; }
+.lead { color: var(--muted); margin: 0 0 28px; }
+.grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+article { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 18px; }
+h2 { margin: 0 0 6px; font-size: 20px; }
+article p { margin: 0 0 10px; }
+.meta { color: var(--muted); font-size: 13px; }
+figure { margin: 0 0 10px; }
+figcaption { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+audio { width: 100%; }
+a { color: var(--accent); }
+.links { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 14px; }
+pre { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 12px; overflow-x: auto; }
+</style>
+</head>
+<body>
+<main>
+<h1>Free Supertonic 3 voices</h1>
+<p class="lead">Free voice styles for Supertonic 3 text-to-speech. Listen, download the JSON and speak offline:
+<code>pip install superclonica-cpu</code>. Source: <a href="https://github.com/superclonica/supertonic-voices">github.com/superclonica/supertonic-voices</a>.
+170+ more voices at <a href="https://superclonica.com/en/explore?utm_source=github&utm_medium=supertonic-voices">superclonica.com</a>.</p>
+<div class="grid">
+<article id="maya">
+  <h2>Maya</h2>
+  <p>Personal stories and everyday conversations sound real. Low voice with noticeable ripples in intonation.</p>
+  <p class="meta">Recorded in Russian · speaks 31 languages</p>
+  <figure><figcaption>English demo</figcaption><audio controls preload="none" src="voices/maya/preview-en.wav"></audio></figure><figure><figcaption>Russian demo</figcaption><audio controls preload="none" src="voices/maya/preview-ru.wav"></audio></figure>
+  <p class="links"><a href="voices/maya/maya.json" download>Download maya.json</a>
+  <a href="https://superclonica.com/en/voice/mayya-1bca0bef7a75565ab98683a8466c5d33?utm_source=github&amp;utm_medium=supertonic-voices">Voice page and online demo ↗</a></p>
+</article>
+<article id="valera-the-gummy-bear">
+  <h2>Valera the Gummy Bear</h2>
+  <p>High, bouncy, completely cartoonish. For absurd short clips and squabbles. Don&#x27;t expect normal human speech from him, and that&#x27;s the point.</p>
+  <p class="meta">Recorded in Russian · speaks 31 languages</p>
+  <figure><figcaption>English demo</figcaption><audio controls preload="none" src="voices/valera-the-gummy-bear/preview-en.wav"></audio></figure><figure><figcaption>Russian demo</figcaption><audio controls preload="none" src="voices/valera-the-gummy-bear/preview-ru.wav"></audio></figure>
+  <p class="links"><a href="voices/valera-the-gummy-bear/valera-the-gummy-bear.json" download>Download valera-the-gummy-bear.json</a>
+  <a href="https://superclonica.com/en/voice/zheleynyy-medved-valera-aaf85078deb55949a5e883d3245dc61b?utm_source=github&amp;utm_medium=supertonic-voices">Voice page and online demo ↗</a></p>
+</article>
+<article id="trevor-philips">
+  <h2>Trevor Philips</h2>
+  <p>Trevor from GTA V, in English. Low, moderate intonation: parody dialogue and planning the next crazy scheme in the spirit of the game.</p>
+  <p class="meta">Recorded in English · speaks 31 languages</p>
+  <figure><figcaption>English demo</figcaption><audio controls preload="none" src="voices/trevor-philips/preview-en.wav"></audio></figure><figure><figcaption>Russian demo</figcaption><audio controls preload="none" src="voices/trevor-philips/preview-ru.wav"></audio></figure>
+  <p class="links"><a href="voices/trevor-philips/trevor-philips.json" download>Download trevor-philips.json</a>
+  <a href="https://superclonica.com/en/voice/trevor-filips-e605237cf231504588126be8c82867e4?utm_source=github&amp;utm_medium=supertonic-voices">Voice page and online demo ↗</a></p>
+</article>
+<article id="dark-willow">
+  <h2>Dark Willow</h2>
+  <p>Lowish voice, even intonation, and that makes her sarcasm even funnier. The fairy-tale trickster comes alive if you write her sharp lines.</p>
+  <p class="meta">Recorded in Russian · speaks 31 languages</p>
+  <figure><figcaption>English demo</figcaption><audio controls preload="none" src="voices/dark-willow/preview-en.wav"></audio></figure><figure><figcaption>Russian demo</figcaption><audio controls preload="none" src="voices/dark-willow/preview-ru.wav"></audio></figure>
+  <p class="links"><a href="voices/dark-willow/dark-willow.json" download>Download dark-willow.json</a>
+  <a href="https://superclonica.com/en/voice/temnaya-iva-9e629d9b7bfb504d94873fbbc380fede?utm_source=github&amp;utm_medium=supertonic-voices">Voice page and online demo ↗</a></p>
+</article>
+<article id="ciri">
+  <h2>Ciri</h2>
+  <p>Female, mid pitch, moderate intonation. A talk after a long road, a personal story. Fighting optional.</p>
+  <p class="meta">Recorded in Russian · speaks 31 languages</p>
+  <figure><figcaption>English demo</figcaption><audio controls preload="none" src="voices/ciri/preview-en.wav"></audio></figure><figure><figcaption>Russian demo</figcaption><audio controls preload="none" src="voices/ciri/preview-ru.wav"></audio></figure>
+  <p class="links"><a href="voices/ciri/ciri.json" download>Download ciri.json</a>
+  <a href="https://superclonica.com/en/voice/tsiri-49cd4d119695528694fac0a1b9fb58a8?utm_source=github&amp;utm_medium=supertonic-voices">Voice page and online demo ↗</a></p>
+</article>
+<article id="billy-butcher">
+  <h2>Billy Butcher</h2>
+  <p>English. Mid-low, even. Arguing over a plan, a team talk. Let the text bring the edge.</p>
+  <p class="meta">Recorded in English · speaks 31 languages</p>
+  <figure><figcaption>English demo</figcaption><audio controls preload="none" src="voices/billy-butcher/preview-en.wav"></audio></figure><figure><figcaption>Russian demo</figcaption><audio controls preload="none" src="voices/billy-butcher/preview-ru.wav"></audio></figure>
+  <p class="links"><a href="voices/billy-butcher/billy-butcher.json" download>Download billy-butcher.json</a>
+  <a href="https://superclonica.com/en/voice/billi-butcher-887d9e85bf875aa58dcfd37b176894a6?utm_source=github&amp;utm_medium=supertonic-voices">Voice page and online demo ↗</a></p>
+</article>
+</div>
+<h2 style="margin-top:32px">Use a voice</h2>
+<pre>python -m pip install superclonica-cpu
+superclonica --text "Hello!" --voice voices/ciri/ciri.json --lang en --output hello.wav</pre>
+</main>
+</body>
+</html>
