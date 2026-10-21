@@ -1,0 +1,157 @@
+{
+ "engine": "0.6.25",
+ "samples": [
+  {
+   "voice": "ciri",
+   "lang": "en",
+   "text": "The road was long, but I'm home now. Sit with me, and I'll tell you everything.",
+   "file": "ciri-en.wav",
+   "seconds": 4.47,
+   "seed": 7
+  },
+  {
+   "voice": "ciri",
+   "lang": "de",
+   "text": "Der Weg war lang, aber jetzt bin ich zu Hause. Setz dich zu mir.",
+   "file": "ciri-de.wav",
+   "seconds": 3.84,
+   "seed": 7
+  },
+  {
+   "voice": "ciri",
+   "lang": "ja",
+   "text": "長い旅だったけど、やっと帰ってきた。少し話を聞いてくれる？",
+   "file": "ciri-ja.wav",
+   "seconds": 4.67,
+   "seed": 7
+  },
+  {
+   "voice": "ciri",
+   "lang": "ru",
+   "text": "Дорога была долгой, но теперь я дома. Садись, я всё расскажу.",
+   "file": "ciri-ru.wav",
+   "seconds": 4.23,
+   "seed": 7
+  },
+  {
+   "voice": "trevor-philips",
+   "lang": "en",
+   "text": "Relax. I have a plan, and this time almost nothing can go wrong.",
+   "file": "trevor-philips-en.wav",
+   "seconds": 4.05,
+   "seed": 7
+  },
+  {
+   "voice": "trevor-philips",
+   "lang": "es",
+   "text": "Tranquilo. Tengo un plan, y esta vez casi nada puede salir mal.",
+   "file": "trevor-philips-es.wav",
+   "seconds": 4.29,
+   "seed": 7
+  },
+  {
+   "voice": "trevor-philips",
+   "lang": "fr",
+   "text": "Du calme. J'ai un plan, et cette fois presque rien ne peut mal tourner.",
+   "file": "trevor-philips-fr.wav",
+   "seconds": 4.25,
+   "seed": 7
+  },
+  {
+   "voice": "billy-butcher",
+   "lang": "en",
+   "text": "Right, listen up. We move at dawn, and nobody does anything stupid.",
+   "file": "billy-butcher-en.wav",
+   "seconds": 4.44,
+   "seed": 7
+  },
+  {
+   "voice": "billy-butcher",
+   "lang": "pt",
+   "text": "Muito bem, prestem atenção. Saímos ao amanhecer, e ninguém faz besteira.",
+   "file": "billy-butcher-pt.wav",
+   "seconds": 5.25,
+   "seed": 7
+  },
+  {
+   "voice": "billy-butcher",
+   "lang": "ko",
+   "text": "잘 들어. 새벽에 출발한다. 아무도 바보 같은 짓 하지 마.",
+   "file": "billy-butcher-ko.wav",
+   "seconds": 4.56,
+   "seed": 7
+  },
+  {
+   "voice": "maya",
+   "lang": "en",
+   "text": "You know, the best stories always start with a small, ordinary morning.",
+   "file": "maya-en.wav",
+   "seconds": 4.4,
+   "seed": 7
+  },
+  {
+   "voice": "maya",
+   "lang": "ru",
+   "text": "Знаешь, самые лучшие истории всегда начинаются с обычного утра.",
+   "file": "maya-ru.wav",
+   "seconds": 4.82,
+   "seed": 7
+  },
+  {
+   "voice": "maya",
+   "lang": "it",
+   "text": "Sai, le storie migliori iniziano sempre con una mattina qualunque.",
+   "file": "maya-it.wav",
+   "seconds": 4.9,
+   "seed": 7
+  },
+  {
+   "voice": "dark-willow",
+   "lang": "en",
+   "text": "Oh, you thought that was a good idea? How adorable.",
+   "file": "dark-willow-en.wav",
+   "seconds": 3.14,
+   "seed": 7
+  },
+  {
+   "voice": "dark-willow",
+   "lang": "fr",
+   "text": "Oh, tu pensais que c'était une bonne idée ? C'est adorable.",
+   "file": "dark-willow-fr.wav",
+   "seconds": 3.26,
+   "seed": 7
+  },
+  {
+   "voice": "dark-willow",
+   "lang": "ru",
+   "text": "О, ты правда думал, что это хорошая идея? Как мило.",
+   "file": "dark-willow-ru.wav",
+   "seconds": 4.2,
+   "seed": 11
+  },
+  {
+   "voice": "valera-the-gummy-bear",
+   "lang": "en",
+   "text": "Hey! Who ate all the gummy bears? It was not me. Probably.",
+   "file": "valera-the-gummy-bear-en.wav",
+   "seconds": 4.11,
+   "seed": 7
+  },
+  {
+   "voice": "valera-the-gummy-bear",
+   "lang": "de",
+   "text": "Hey! Wer hat alle Gummibärchen gegessen? Ich war es nicht. Wahrscheinlich.",
+   "file": "valera-the-gummy-bear-de.wav",
+   "seconds": 4.58,
+   "seed": 42
+  },
+  {
+   "voice": "valera-the-gummy-bear",
+   "lang": "ru",
+   "text": "Эй! Кто съел всех мармеладных мишек? Это не я. Наверное.",
+   "file": "valera-the-gummy-bear-ru.wav",
+   "seconds": 4.45,
+   "seed": 7
+  }
+ ]
+}
