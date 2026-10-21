@@ -18,6 +18,23 @@ with stock Supertonic 3 or with the faster [SuperClonica engine](https://supercl
 Every voice speaks all 31 languages of Supertonic 3: pass the text's language as `lang`.
 "Recorded in" is the language of the reference the voice was trained on, where it sounds most natural.
 
+## Samples: one voice, many languages
+
+Every voice speaks all 31 languages of Supertonic 3. **Listen on one page: https://superclonica.github.io/supertonic-voices/samples.html**
+(each link below plays one recording in the browser):
+
+| Voice | Languages |
+|---|---|
+| Ciri | [English](https://superclonica.github.io/supertonic-voices/samples/ciri-en.wav) · [German](https://superclonica.github.io/supertonic-voices/samples/ciri-de.wav) · [Japanese](https://superclonica.github.io/supertonic-voices/samples/ciri-ja.wav) · [Russian](https://superclonica.github.io/supertonic-voices/samples/ciri-ru.wav) |
+| Trevor Philips | [English](https://superclonica.github.io/supertonic-voices/samples/trevor-philips-en.wav) · [Spanish](https://superclonica.github.io/supertonic-voices/samples/trevor-philips-es.wav) · [French](https://superclonica.github.io/supertonic-voices/samples/trevor-philips-fr.wav) |
+| Billy Butcher | [English](https://superclonica.github.io/supertonic-voices/samples/billy-butcher-en.wav) · [Portuguese](https://superclonica.github.io/supertonic-voices/samples/billy-butcher-pt.wav) · [Korean](https://superclonica.github.io/supertonic-voices/samples/billy-butcher-ko.wav) |
+| Maya | [English](https://superclonica.github.io/supertonic-voices/samples/maya-en.wav) · [Russian](https://superclonica.github.io/supertonic-voices/samples/maya-ru.wav) · [Italian](https://superclonica.github.io/supertonic-voices/samples/maya-it.wav) |
+| Dark Willow | [English](https://superclonica.github.io/supertonic-voices/samples/dark-willow-en.wav) · [French](https://superclonica.github.io/supertonic-voices/samples/dark-willow-fr.wav) · [Russian](https://superclonica.github.io/supertonic-voices/samples/dark-willow-ru.wav) |
+| Valera the Gummy Bear | [English](https://superclonica.github.io/supertonic-voices/samples/valera-the-gummy-bear-en.wav) · [German](https://superclonica.github.io/supertonic-voices/samples/valera-the-gummy-bear-de.wav) · [Russian](https://superclonica.github.io/supertonic-voices/samples/valera-the-gummy-bear-ru.wav) |
+
+Voiced with the SuperClonica engine on a CPU, without editing; texts and seeds are in
+[`samples/samples.json`](samples/samples.json).
+
 ## Use a voice
 
 Install one engine package (not both):
