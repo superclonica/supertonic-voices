@@ -73,7 +73,7 @@ Supertonic 3 voice styles, so they also work with the official Supertonic 3 code
 
 ## Get more voices
 
-These are the free ones. The **[SuperClonica voice marketplace](https://superclonica.com/en/explore?utm_source=github&utm_medium=supertonic-voices)**
+These are the free ones; all free voices, with demos and an online phrase test, are also on [superclonica.com/voices/free](https://superclonica.com/en/voices/free?utm_source=github&utm_medium=supertonic-voices). The **[SuperClonica voice marketplace](https://superclonica.com/en/explore?utm_source=github&utm_medium=supertonic-voices)**
 has 170+ voices in the same format:
 
 - **Characters and narrators** – [game characters](https://superclonica.com/en/voices/game-characters?utm_source=github&utm_medium=supertonic-voices),
