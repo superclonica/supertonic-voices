@@ -6,6 +6,8 @@ with stock Supertonic 3 or with the faster [SuperClonica engine](https://supercl
 
 🎧 **Listen to every voice in your browser:** https://superclonica.github.io/supertonic-voices/
 
+🗣️ **Voice your own phrase with any of them, right in your browser:** [Hugging Face demo](https://huggingface.co/spaces/Superclonica/superclonica-tts)
+
 | Voice | Sounds like | Recorded in | Listen | Voice file | More |
 |---|---|---|---|---|---|
 | **Maya** | Personal stories and everyday conversations sound real. Low voice with noticeable ripples in intonation. | Russian | [▶ EN](https://superclonica.github.io/supertonic-voices/#maya) · [▶ RU](https://superclonica.github.io/supertonic-voices/#maya) | [`maya.json`](voices/maya/maya.json) | [page](https://superclonica.com/en/voice/mayya-1bca0bef7a75565ab98683a8466c5d33?utm_source=github&utm_medium=supertonic-voices) |
