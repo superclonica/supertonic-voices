@@ -106,6 +106,38 @@
       },
       "page": "https://superclonica.com/en/voice/billi-butcher-887d9e85bf875aa58dcfd37b176894a6",
       "author": "lexx"
+    },
+    {
+      "name": "Gollum",
+      "slug": "gollum",
+      "file": "voices/gollum/gollum.json",
+      "recorded_in": "en",
+      "description": "Gollum from the movie",
+      "tags": [
+        "monster",
+        "whisper",
+        "growling"
+      ],
+      "previews": {
+        "en": "voices/gollum/preview-en.wav",
+        "ru": "voices/gollum/preview-ru.wav"
+      },
+      "page": "https://superclonica.com/en/voice/gollum-1d974ab653e2426ecfd2bdef7695677a",
+      "author": "Anonymous"
+    },
+    {
+      "name": "Brainrot",
+      "slug": "brainrot",
+      "file": "voices/brainrot/brainrot.json",
+      "recorded_in": "en",
+      "description": "Meme voice",
+      "tags": [],
+      "previews": {
+        "en": "voices/brainrot/preview-en.wav",
+        "ru": "voices/brainrot/preview-ru.wav"
+      },
+      "page": "https://superclonica.com/en/voice/brainrot-0fe33bb835bf0f4ee7294d79e3e672fc",
+      "author": "Anonymous"
     }
   ]
 }
