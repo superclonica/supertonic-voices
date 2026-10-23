@@ -152,6 +152,60 @@
    "file": "valera-the-gummy-bear-ru.wav",
    "seconds": 4.45,
    "seed": 7
+  },
+  {
+   "voice": "gollum",
+   "lang": "en",
+   "text": "We waits in the dark, yes we does. Nobody finds us here, nobody.",
+   "file": "gollum-en.wav",
+   "seconds": 4.17,
+   "seed": 7,
+   "engine": "0.6.24"
+  },
+  {
+   "voice": "gollum",
+   "lang": "ru",
+   "text": "Мы ждём в темноте, да-да. Здесь нас никто не найдёт, никто.",
+   "file": "gollum-ru.wav",
+   "seconds": 4.41,
+   "seed": 7,
+   "engine": "0.6.24"
+  },
+  {
+   "voice": "gollum",
+   "lang": "de",
+   "text": "Wir warten im Dunkeln, ja, ja. Hier findet uns niemand, niemand.",
+   "file": "gollum-de.wav",
+   "seconds": 4.13,
+   "seed": 7,
+   "engine": "0.6.24"
+  },
+  {
+   "voice": "brainrot",
+   "lang": "en",
+   "text": "Bro, my phone just died. This is the worst day of my entire life.",
+   "file": "brainrot-en.wav",
+   "seconds": 4.31,
+   "seed": 7,
+   "engine": "0.6.24"
+  },
+  {
+   "voice": "brainrot",
+   "lang": "ru",
+   "text": "Бро, у меня сел телефон. Это худший день в моей жизни, без шуток.",
+   "file": "brainrot-ru.wav",
+   "seconds": 5.07,
+   "seed": 7,
+   "engine": "0.6.24"
+  },
+  {
+   "voice": "brainrot",
+   "lang": "es",
+   "text": "Hermano, se cayó el wifi. Este es el peor día de toda mi vida.",
+   "file": "brainrot-es.wav",
+   "seconds": 4.51,
+   "seed": 7,
+   "engine": "0.6.24"
   }
  ]
 }

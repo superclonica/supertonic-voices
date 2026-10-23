@@ -33,6 +33,8 @@ Every voice speaks all 31 languages of Supertonic 3. **Listen on one page: https
 | Maya | [English](https://superclonica.github.io/supertonic-voices/samples/maya-en.wav) · [Russian](https://superclonica.github.io/supertonic-voices/samples/maya-ru.wav) · [Italian](https://superclonica.github.io/supertonic-voices/samples/maya-it.wav) |
 | Dark Willow | [English](https://superclonica.github.io/supertonic-voices/samples/dark-willow-en.wav) · [French](https://superclonica.github.io/supertonic-voices/samples/dark-willow-fr.wav) · [Russian](https://superclonica.github.io/supertonic-voices/samples/dark-willow-ru.wav) |
 | Valera the Gummy Bear | [English](https://superclonica.github.io/supertonic-voices/samples/valera-the-gummy-bear-en.wav) · [German](https://superclonica.github.io/supertonic-voices/samples/valera-the-gummy-bear-de.wav) · [Russian](https://superclonica.github.io/supertonic-voices/samples/valera-the-gummy-bear-ru.wav) |
+| Gollum | [English](https://superclonica.github.io/supertonic-voices/samples/gollum-en.wav) · [Russian](https://superclonica.github.io/supertonic-voices/samples/gollum-ru.wav) · [German](https://superclonica.github.io/supertonic-voices/samples/gollum-de.wav) |
+| Brainrot | [English](https://superclonica.github.io/supertonic-voices/samples/brainrot-en.wav) · [Russian](https://superclonica.github.io/supertonic-voices/samples/brainrot-ru.wav) · [Spanish](https://superclonica.github.io/supertonic-voices/samples/brainrot-es.wav) |
 
 Voiced with the SuperClonica engine on a CPU, without editing; texts and seeds are in
 [`samples/samples.json`](samples/samples.json).
